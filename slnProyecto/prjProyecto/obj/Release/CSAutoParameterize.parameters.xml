@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ProyectoContext-Web.config Connection String" description="ProyectoContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ProyectoContext-20180528212112; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|ProyectoContext-20180528212112.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\panch\\source\\repos\\proyecto\.V\.4\\slnProyecto\\prjProyecto\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProyectoContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\panch\\source\\repos\\proyecto\.V\.4\\slnProyecto\\prjProyecto\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ProyectoContext_DatabasePublish-Web.config Connection String" description="ProyectoContext_DatabasePublish Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="ProyectoContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\panch\\source\\repos\\proyecto\.V\.4\\slnProyecto\\prjProyecto\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProyectoContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,99 @@
+﻿@model IEnumerable<prjProyecto.Models.PedidoDetalle>
+
+@{
+    /**/
+
+    ViewBag.Title = "ReporteEntretenimiento";
+    decimal TOTAL = 0;
+}
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-image: url(../../Imagenes/Peli.jpg);
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+
+</head>
+
+@using (Html.BeginForm("ReporteEntretenimiento", "Venta", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <h2>ReporteEntretenimiento</h2>
+    <div class="form-group">
+        @*<div class="col-md-offset-2 col-md-10">*@
+        <input type="submit" value="Guardar" class="btn btn-default" />
+        @*</div>*@
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Entretenimiento.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pedidos.Cliente.NombreCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioVenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioAlquiler)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+
+                    @Html.ActionLink(item.Entretenimiento.Nombre,
+                                "ReporteXItem", new { Nombre = item.Entretenimiento.Nombre }, new { @style = "color:#000aaa;" })
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pedidos.Cliente.NombreCliente)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioVenta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioAlquiler)
+                </td>
+
+            </tr>
+            TOTAL = item.PrecioVenta + item.PrecioAlquiler + TOTAL;
+        }
+
+    </table>
+    @Html.ActionLink("TOTAL", null, null, new { @style = "color:#17202A;" })
+    @Html.TextBox("Total", TOTAL, new { @readonly = "readonly" })
+
+
+}
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home", new { },new { @class = "btn waves-effect waves-orange" })
+</div>

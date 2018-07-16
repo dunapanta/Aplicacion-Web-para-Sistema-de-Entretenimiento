@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@*<style>
+        body {
+            background-image: url(../../Imagenes/entretenimiento.jpg)
+        }
+    </style>*@
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-image: url(../../Imagenes/Peli.jpg);
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+    
+</head>
+
+        <div class="row">
+            <h1>MANEJO DE ENTRETENIMIENTO</h1>
+            <p class="lead">Integrantes:</p>
+            <p class="lead">Francisco Jimenez</p>
+            <p class="lead">Daniel Unapanta</p>
+            
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-3">
+                <div style="text-align:center">
+                    <h4>Entretenimiento</h4>
+                    <a href='@Url.Action("Index", "Entretenimientoes")'>
+                        <img src='~/Imagenes/entre.png' />
+                    </a>
+                </div>
+
+             </div>
+
+                <div class="col-md-3">
+                    <div style="text-align:center">
+                        <h3>Cliente</h3>
+                        <a href='@Url.Action("Index", "Clientes")'>
+                            <img src='~/Imagenes/cliente.png' />
+                        </a>
+                    </div>
+
+                </div>
+                <div class="col-md-3">
+                    <div style="text-align:center">
+                        <h3>Empleado</h3>
+                        <a href='@Url.Action("Index", "Empleadoes")'>
+                            <img src='~/Imagenes/Empleado.png' />
+                        </a>
+                    </div>
+                    
+                </div>
+                <div class="col-md-3">
+                    <div style="text-align:center">
+                        <h3>Venta</h3>
+                        <a href='@Url.Action("NuevoPedido", "Venta")'>
+                            <img src='~/Imagenes/venta.png' />
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>

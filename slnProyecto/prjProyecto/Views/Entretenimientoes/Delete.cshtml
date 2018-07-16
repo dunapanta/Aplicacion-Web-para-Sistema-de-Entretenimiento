@@ -1,0 +1,108 @@
+﻿@model prjProyecto.Models.Entretenimiento
+
+@{
+    ViewBag.Title = "Delete";
+}
+@*<style>
+    body {
+        background-image: url(../../Imagenes/Peli.jpg)
+    }
+</style>*@
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-image: url(../../Imagenes/Peli.jpg);
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+</head>
+
+<h2>Eliminar Entretenimiento</h2>
+
+<h3>Esta Seguro de Querer Eliminarlo?</h3>
+<div>
+    <h4>Entretenimiento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CatEntretenimiento.NombreCategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CatEntretenimiento.NombreCategoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CatPelicula.NombreGenero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CatPelicula.NombreGenero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioVent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioVent)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index", new { }, new { @class = "btn waves-effect waves-orange" })
+        </div>
+    }
+</div>

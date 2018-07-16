@@ -1,0 +1,85 @@
+﻿@model IEnumerable<prjProyecto.Models.Pedido>
+@{
+    ViewBag.Title = "ReporteVentasOpe";
+    decimal TOTAL = 0;
+
+}
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-image: url(../../Imagenes/Peli.jpg);
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+
+</head>
+
+@using (Html.BeginForm("ReporteXItem", "Venta", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <h2>ReporteVentasOpe</h2>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente.NombreCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PedidoFecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.total)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Cliente.NombreCliente,
+                                    "ReporteXNombreOpe", new { nombre = item.Cliente.NombreCliente }, new { @style = "color:#000aaa;" })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PedidoFecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.total)
+                </td>
+
+            </tr>
+            TOTAL = item.total + TOTAL;
+
+        }
+
+    </table>
+
+    @Html.ActionLink("TOTAL", null, null, new { @style = "color:#17202A;" })
+    @Html.TextBox("Total", TOTAL, new { @readonly = "readonly" })
+
+
+}
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home", new { @class = "btn waves-effect waves-orange" })
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

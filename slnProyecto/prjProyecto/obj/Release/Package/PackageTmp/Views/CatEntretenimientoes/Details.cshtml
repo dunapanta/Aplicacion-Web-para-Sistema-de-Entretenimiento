@@ -1,0 +1,50 @@
+﻿@model prjProyecto.Models.CatEntretenimiento
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-image: url(../../Imagenes/Peli.jpg);
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+</head>
+
+<h2>Categorias Entretenimiento</h2>
+
+<div>
+    <h4>CatEntretenimiento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCategoria)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdCatEntrete }) |
+    @Html.ActionLink("Back to List", "Index", new { }, new { @class = "btn waves-effect waves-orange" })
+</p>

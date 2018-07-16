@@ -1,0 +1,66 @@
+﻿@model prjProyecto.Models.Factura
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        body {
+            background-color: #F0F4C3;
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+</head>
+
+<h2>Details</h2>
+
+<div>
+    <h4>Factura</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido.PedidoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.PedidoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FacturaFecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FacturaFecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.total)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FacturaId }) |
+    @Html.ActionLink("Back to List", "Index", new { }, new { @class = "btn waves-effect waves-orange" })
+</p>

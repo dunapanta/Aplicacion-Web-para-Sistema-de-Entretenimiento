@@ -1,0 +1,973 @@
+c:\users\panch\source\repos\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojResolveAssemblyReference.cache
+c:\users\panch\source\repos\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\prjProyecto.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\EntityFramework.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Owin.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\WebGrease.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\EntityFramework.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+c:\users\panch\source\repos\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+c:\users\panch\source\repos\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojAssemblyReference.cache
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\Daniel Unapanta\Downloads\slnProyecto\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojResolveAssemblyReference.cache
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\panch\source\repos\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojAssemblyReference.cache
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\Daniel Unapanta\Downloads\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojAssemblyReference.cache
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\Daniel Unapanta\Desktop\proyecto.V.3\proyecto.V.3\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojResolveAssemblyReference.cache
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\panch\source\repos\proyecto.V.4\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\ApplicationInsights.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\prjProyecto.dll.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\prjProyecto.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\prjProyecto.pdb
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csc.exe
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csc.exe.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csc.rsp
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csi.exe
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csi.exe.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\csi.rsp
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Console.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\vbc.exe
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\vbc.rsp
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Antlr3.Runtime.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\EntityFramework.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Newtonsoft.Json.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Owin.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Helpers.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Mvc.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Optimization.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Razor.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\WebGrease.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Helpers.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Mvc.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Optimization.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.Razor.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Newtonsoft.Json.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\EntityFramework.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csprojAssemblyReference.cache
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\obj\Debug\prjProyecto.csproj.CopyComplete
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\obj\Debug\prjProyecto.dll
+C:\Users\Daniel Unapanta\Desktop\Aplicacion Web\slnProyecto\prjProyecto\obj\Debug\prjProyecto.pdb

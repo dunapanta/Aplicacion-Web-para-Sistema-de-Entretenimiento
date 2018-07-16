@@ -1,0 +1,70 @@
+﻿@model IEnumerable<prjProyecto.Models.Pedido>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="~/Content/materialize/css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <style>
+        body {
+            background-color: #FFE0B2;
+        }
+
+        h2 {
+            color: black;
+        }
+
+        h3 {
+            color: black;
+        }
+    </style>
+</head>
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn waves-effect waves-orange cyan darken-2" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente.NombreCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PedidoFecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.total)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.NombreCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PedidoFecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.total)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.PedidoId }, new { @class = "btn waves-effect waves-orange light-green darken-2" }) |
+            @Html.ActionLink("Details", "Details", new { id = item.PedidoId }, new { @class = "btn waves-effect waves-orange yellow lighten-2" }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.PedidoId }, new { @class = "btn waves-effect waves-orange red accent-2" })
+        </td>
+    </tr>
+}
+
+</table>
